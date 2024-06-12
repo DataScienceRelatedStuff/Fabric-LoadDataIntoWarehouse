@@ -1,0 +1,2 @@
+{"txn":{"appId":"424c3456-c3dc-e5f8-530f-135019cd5974","version":1180}}
+{"add":{"path":"19473D4E-5604-4F3A-BD9D-292E6DA7C40D/0/1180/8B344055-052C-4636-BB64-C7BFB7A12BCA.parquet","partitionValues":{},"size":6523,"modificationTime":0,"dataChange":true,"stats":"{\"numRecords\":117}","tags":{"cell":"83"}}}

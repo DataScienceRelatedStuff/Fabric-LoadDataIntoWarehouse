@@ -1,0 +1,3 @@
+{"txn":{"appId":"424c3456-c3dc-e5f8-530f-135019cd5974","version":1078}}
+{"protocol":{"minReaderVersion":1,"minWriterVersion":1}}
+{"metaData":{"id":"19473D4E-5604-4F3A-BD9D-292E6DA7C40D","name":"Dim_Item","format":{"provider":"parquet","options":{}},"schemaString":"{\"type\":\"struct\",\"fields\":[{\"name\":\"ItemID\",\"type\":\"string\",\"nullable\":false,\"metadata\":{}},{\"name\":\"ItemName\",\"type\":\"string\",\"nullable\":false,\"metadata\":{}}]}","partitionColumns":[],"configuration":{}}}

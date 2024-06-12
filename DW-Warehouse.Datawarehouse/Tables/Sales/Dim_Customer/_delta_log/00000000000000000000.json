@@ -1,0 +1,3 @@
+{"txn":{"appId":"424c3456-c3dc-e5f8-530f-135019cd5974","version":1062}}
+{"protocol":{"minReaderVersion":1,"minWriterVersion":1}}
+{"metaData":{"id":"1758BFFB-4F64-41BC-A557-D197C66510FD","name":"Dim_Customer","format":{"provider":"parquet","options":{}},"schemaString":"{\"type\":\"struct\",\"fields\":[{\"name\":\"CustomerID\",\"type\":\"string\",\"nullable\":false,\"metadata\":{}},{\"name\":\"CustomerName\",\"type\":\"string\",\"nullable\":false,\"metadata\":{}},{\"name\":\"EmailAddress\",\"type\":\"string\",\"nullable\":false,\"metadata\":{}}]}","partitionColumns":[],"configuration":{}}}
